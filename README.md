@@ -3,14 +3,13 @@ Job Application Program that makes a job application to apply for a typical job.
 
 
 
-![image](https://github.com/cmorris2945/Job-Application-Program/assets/30676606/da89946d-588c-4486-b0ac-d56bd4ba42ef)
-
-
-![image](https://github.com/cmorris2945/Job-Application-Program/assets/30676606/84b4eff4-7027-40ed-b988-a9ffb337908e)
+![image](https://github.com/cmorris2945/Job-Application-Program/assets/30676606/a016a42a-48b9-43cf-a4a4-7561d5a832f4)
 
 
 
-![image](https://github.com/cmorris2945/Job-Application-Program/assets/30676606/a9ff85af-91ec-4df7-874c-a448c11407e7)
+![image](https://github.com/cmorris2945/Job-Application-Program/assets/30676606/6b714450-23a3-48eb-857b-90f4afc8c96a)
+
+
 
 
 
